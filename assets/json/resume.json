@@ -50,7 +50,6 @@
       "State Rank": "213",
       "summary": "Secured 213th rank in the Global Computer Olympiad conducted by Udayan Education"
     }
-
   ],
   "certificates": [
     {
@@ -73,55 +72,32 @@
       "name": "Programming Lang",
       "level": "Master",
       "icon": "fa-solid fa-square-binary",
-      "keywords": [
-        "C++",
-        "Python",
-        "JavaScript",
-        "SQL"
-      ]
+      "keywords": ["C++", "Python", "JavaScript", "SQL"]
     },
     {
       "name": "Dev Tools",
       "level": "Master",
       "icon": "fa-solid fa-screwdriver-wrench",
-      "keywords": [
-        "VsCode",
-        "Cmake",
-        "GCC",
-        "Jupyter Lab"
-      ]
+      "keywords": ["VsCode", "Cmake", "GCC", "Jupyter Lab"]
     },
     {
       "name": "ML & DS",
       "level": "Master",
       "icon": "fa-solid fa-square-binary",
-      "keywords": [
-        "NumPy & Pandas",
-        "Matplotlib & Seaborn",
-        "Scikit-learn",
-        "TensorFlow & PyTorch",
-        "OpenCV"
-      ]
+      "keywords": ["NumPy & Pandas", "Matplotlib & Seaborn", "Scikit-learn", "TensorFlow & PyTorch", "OpenCV"]
     },
     {
       "name": "Data Analytics Tools",
       "level": "Master",
       "icon": "fa-solid fa-square-binary",
-      "keywords": [
-        "PowerBi",
-        "Excel"
-      ]
+      "keywords": ["PowerBi", "Excel"]
     },
     {
       "name": "Version Control",
       "level": "Master",
       "icon": "fa-solid fa-square-binary",
-      "keywords": [
-        "Git & Github",
-        "Docker"
-      ]
+      "keywords": ["Git & Github", "Docker"]
     }
-
   ],
   "languages": [
     {
@@ -153,11 +129,11 @@
       "name": "Nurogami Compiler",
       "summary": "Nurogami is a custom compiler project designed to translate high-level language constructs into executable code, with a focus on learning compiler design, parsing techniques, and code optimization.",
       "highlights": [
-    "Lexical analysis and parsing",
-    "Abstract Syntax Tree (AST) generation",
-    "Code optimization techniques",
-    "Intermediate code generation"
-  ],
+        "Lexical analysis and parsing",
+        "Abstract Syntax Tree (AST) generation",
+        "Code optimization techniques",
+        "Intermediate code generation"
+      ],
       "startDate": "2025-04-12",
       "endDate": "ongoing",
       "url": "https://github.com/nileshyadavme/nurogami"
