@@ -394,9 +394,8 @@ enable_video_embedding: false # enables video embedding for bibtex entries. If f
 # Timezone & Future Posts
 # -----------------------------------------------------------------------------
 
-timezone: Asia/Kolkata   # set your local timezone so "today" matches your clock
-future: true             # ensures posts with today's or future dates still show
-
+timezone: Asia/Kolkata # set your local timezone so "today" matches your clock
+future: true # ensures posts with today's or future dates still show
 
 # -----------------------------------------------------------------------------
 # Library versions
